@@ -1,0 +1,62 @@
+
+ .body{
+     background-color: rgb(201, 114, 164);
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 1.em;
+     margin-top: 5%;
+     justify-content: center;
+     line-height: 200%;
+ }
+
+ .titulo{
+     color: rgb(24, 21, 21);
+     font-family: sans-serif;
+     padding: 1%;
+     
+ }
+
+ .subtitulo{
+     color: rgb(24,21,21);
+ }
+
+ input, label, button{
+    border-radius: 5px;
+    color: rgb(24, 2, 7);
+    padding-right: 1%;
+   
+    
+
+}
+.campo  input:focus{
+    background: #e0e0f8;
+    line-height: 200%;
+
+    
+}
+
+.botao{
+    font-size: 1.2em;
+    background: #828881;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffff;
+   
+    
+}
+
+.delete {
+    display: none;
+    
+    
+}
+
+.botao-css{
+   margin-left: 5%;
+   
+}
+
+
+
+
+
